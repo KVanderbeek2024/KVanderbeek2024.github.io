@@ -1,0 +1,18 @@
+/* CSS Document */
+
+p{
+	color: black;
+	display: inline-block;
+	width: 200px;
+}
+#r {
+	background-color: red
+}
+#b {
+	background-color: blue
+}
+#g {background-color: green
+} 
+body {
+	background-color: #CD0003;
+}
