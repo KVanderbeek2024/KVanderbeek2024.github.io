@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+.table1{
+	background-color: #303030;
+	color: #d6d6d6;
+	display: block;
+}
+.table2{
+	background-color: #fbfbfd;
+	color: #464648;
+}
+.table3{
+	background-color: white;
+	color: #bf4800;
+}
+p{
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+body {
+	background: white;
+}
+a1{
+	color: #d6d6d6;
+}
+a2{
+	color: #464648;
+}

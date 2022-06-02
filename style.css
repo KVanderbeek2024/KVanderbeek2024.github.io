@@ -1,10 +1,9 @@
 /* CSS Document */
 
 p{
-	color: black;
-	display: inline-block;
+	color: #AA0002;
 	width: 200px;
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"
 }
 #r {
 	background-color: red
@@ -15,5 +14,58 @@ p{
 #g {background-color: green
 } 
 body {
-	background-color: #CD0003;
+	background-color: #000000;
+}
+h1 {
+	color: #AA0002
+}
+
+.table {
+	color: #AA0002;
+	width: 200px;
+	height: 25px;
+    vertical-align: bottom;
+	border: 1px solid #AA0002; 
+	padding: 10px;
+	margin-bottom: 0px;
+	margin-top: -1px;
+	margin-right: -5px;
+	margin-left: 0px;
+}
+p{
+	display: inline-block
+}
+div {
+	display: block;
+	white-space: nowrap;
+}
+#center-column {
+	display: inline-block;
+	width: 50%;
+	vertical-align: top;
+	border: 1px solid black;
+	padding: 10px;
+}
+#minus, #plus, #total {
+display: inline-block;
+	font-size: 80px;
+	margin: 15px;
+}
+#buttons, #image {
+	display: inline-block;
+	vertical-align: top;
+}
+.button {
+	display:block;
+	vertical-align: top;
+	
+
+}
+#image {
+	width: 50vw;
+}
+.question {
+	size: 20vw;
+	display: block;
+	
 }

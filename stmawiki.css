@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+.html{
+	background-color: aliceblue;
+}
+p{
+	color: black;
+}
+.sidebar{
+	display: inline-block;
+	vertical-align: top;
+	background-color: gainsboro;
+}
+.table{
+	background-color: gainsboro;
+	border: solid thin black;
+}
+.tablediv{
+	display: inline-block;
+	width: 20vw;
+	background-color: gainsboro;
+}
+.infodiv{
+	display: inline-block;
+	width: 70vw;
+}
+.imagediv{ 
+display: inline-block;
+	vertical-align: top;
+	background-color: gainsboro;
+	width: 18vw;
+	border: solid thin black;
+}
+	
+.table2{ 
+background-color: mediumslateblue;
+}
+.table3{
+	background-color: lightblue;
+	border: thin solid black;
+}
+.table4{
+	background-color: white;
+	border: thin solid black;
+}
